@@ -25,6 +25,5 @@ def task_17():
     print("3")
     image.save(3, 17, 1)
 
-
 task_16()
 task_17()
